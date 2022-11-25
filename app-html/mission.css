@@ -1,0 +1,469 @@
+/* https://projects.animaapp.com/team/my-team-nk8qpo3/project/z2vUmUL/screen/mission/omniview?mode=code */
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,300,500,500,italic|Markazi+Text:400|Jura:400,600|Iceberg:400|PT+Sans:400|Dongle:400|Mali:400|Poly:400|Poiret+One:400|Julius+Sans+One:400");
+
+.mission {
+	align-items: flex-start;
+	background-color: #2f2f2f;
+	border: 1px none;
+	display: flex;
+	height: 359px;
+	overflow: hidden;
+	width: 800px;
+}
+
+.hidden,
+.hidden * {
+	pointer-events: none;
+	visibility: hidden; 
+}
+
+.overlap-group9 {
+	height: 360px;
+	position: relative;
+	width: 800px;
+}
+
+.rectangle-150 {
+	border: 1px none; 
+	cursor: pointer;
+	height: 27px;
+	left: 51px;
+	position: absolute;
+	top: 36px;
+	width: 121px; 
+}
+
+.rectangle-163 {
+	background-color: var(--white);
+	border: 1px none;
+	height: 20px;
+	left: 410px;
+	position: absolute;
+	top: 80px;
+	width: 173px;
+}
+
+.group-94 {
+	align-items: flex-end;
+	box-shadow: 4px 4px 4px #000000bf;
+	display: flex;
+	height: 175px;
+	left: 140px;
+	min-width: 214px;
+	position: absolute;
+	top: 100px;
+	transform: rotate(-9.71deg);
+}
+
+.overlap-group8 {
+	height: 175px;
+	margin-bottom: 0;
+	position: relative;
+	width: 214px;
+}
+
+.rectangle-160 {
+	height: 140px;
+	left: 13px;
+	object-fit: cover;
+	position: absolute;
+	top: 10px;
+	transform: rotate(9.71deg);
+	width: 189px;
+}
+
+.rectangle-159 {
+	background-color: var(--white);
+	border: 1px none;
+	height: 133px;
+	left: 14px;
+	position: absolute;
+	top: 21px; 
+	transform: rotate(14.3deg);
+	width: 187px;
+}
+
+.side-quest-2 {
+	left: 474px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 90px;
+}
+
+.place {
+	color: var(--white);
+	font-family: var(--font-family-jura);
+	font-size: var(--font-size-xx12);
+	font-weight: 400;
+	left: 191px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 37px; 
+}
+
+.material-symbolsarrow-back-ios {
+	height: 10px;
+	left: 62px;
+	position: absolute;
+	top: 42px;
+	width: 18px;
+}
+
+.bg-1 {
+	height: 111px;
+	left: 416px;
+	position: absolute;
+	top: 0;
+	width: 384px;
+}
+
+.rectangle-161 {
+	background-color: var(--mine-shaft);
+	border: 1px none;
+	height: 30px;
+	left: 403px;
+	position: absolute;
+	top: 34px;
+	width: 77px;
+}
+
+.main-quest {
+	left: 282px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 89px;
+}
+
+.side-quest::-webkit-scrollbar {
+	display: none;
+	width: 0;
+}
+
+.side-quest {
+	align-items: flex-end;
+	border: 1px none;
+	display: flex;
+	height: 249px;
+	min-width: 326px;
+	overflow-y: scroll; 
+	position: absolute;
+	top: 11px;
+}
+
+/* Need to fill background image URL */
+.overlap-group-2 {
+	align-items: flex-start;
+	background-image: url(); 
+	background-position: 50% 50%;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: -125px;
+	min-height: 374px;
+	padding: 15px 21px;
+	width: 327px;
+}
+
+.flex-row-2 {
+	align-items: center;
+	display: flex;
+	gap: 9px;
+	margin-left: 15px;
+	margin-top: 17px;
+	min-width: 213px;
+}
+
+.overlap-group {
+	height: 34px;
+	position: relative;
+	width: 26px;
+}
+
+.x100-xp-1 {
+	left: 4px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+}
+
+.asset-70 {
+	height: 24px;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 26px; 
+}
+
+.visit-your-friend-aqurium-01 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-bottom: 6px;
+	min-height: 18px;
+	min-width: 178px;
+	text-align: center; 
+}
+
+.flex-row-5 {
+	align-items: center;
+	display: flex;
+	gap: 14px;
+	margin-left: 17px;
+	margin-top: 17px;
+	min-width: 106px;
+}
+
+.eat-fish-01 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-bottom: 4px;
+	min-height: 18px;
+	min-width: 74px;
+	text-align: center; 
+}
+
+.overlap-group-1 {
+	height: 32px;
+	position: relative;
+	width: 18px; 
+}
+
+.asset-68 {
+	height: 21px;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 18px;
+}
+
+.number {
+	left: 4px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 18px; 
+}
+
+.flex-row-4 {
+	align-items: center;
+	align-self: center;
+	display: flex;
+	gap: 12px;
+	margin-right: 22px;
+	margin-top: 16px;
+	min-width: 229px;
+}
+
+.collect-1600-diamond-3001600 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-bottom: 2px;
+	min-height: 18px;
+	min-width: 199px;
+	text-align: center;
+}
+
+.flex-row-3 {
+	align-items: flex-start;
+	display: flex;
+	gap: 15px;
+	margin-left: 17px;
+	margin-top: 17px;
+	min-width: 112px;
+}
+
+.reach-level-3 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-bottom: 3px;
+	min-height: 18px;
+	min-width: 79px;
+	text-align: center;
+}
+
+.overlap-group6 {
+	height: 33px;
+	position: relative;
+	width: 18px;
+}
+
+.number-3 {
+	left: 4px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 19px;
+}
+
+.flex-row {
+	align-items: center;
+	display: flex;
+	gap: 9px;
+	margin-left: 14px;
+	margin-top: 15px;
+	min-width: 206px;
+}
+
+.decorate-your-aqurium-01 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-bottom: 6px;
+	min-height: 18px;
+	min-width: 171px;
+	text-align: center;
+}
+
+.x100-xp {
+	left: 5px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+}
+
+.flex-row-1 {
+	align-items: flex-start;
+	display: flex;
+	gap: 15px;
+	margin-left: 17px;
+	margin-top: 16px;
+	min-width: 143px;
+}
+
+.overlap-group7 {
+	height: 31px;
+	position: relative;
+	width: 18px;
+}
+
+.number-2 {
+	left: 4px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 17px;
+}
+
+.feed-your-fish-01 {
+	letter-spacing: 0;
+	line-height: normal;
+	margin-top: 2px;
+	min-height: 18px;
+	min-width: 110px;
+	text-align: center;
+}
+
+.overlap-group2 {
+	height: 42px;
+	position: relative;
+	width: 283px;
+}
+
+.buy-a-goldfish-11 {
+	left: 52px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 12px;
+}
+
+.number-1 {
+	color: var(--white);
+	font-family: var(--font-family-dongle);
+	font-size: var(--font-size-s);
+	font-weight: 400;
+	left: 21px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+}
+
+.rectangle-236 {
+	border: 1px none;
+	cursor: pointer;
+	height: 40px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 283px;
+}
+
+.asset-71-1 {
+	height: 38px;
+	left: 224px;
+	object-fit: cover;
+	position: absolute;
+	top: 2px;
+	width: 45px;
+}
+
+.asset-68-1 {
+	height: 21px;
+	left: 17px;
+	object-fit: cover;
+	position: absolute;
+	top: 10px;
+	width: 18px;
+}
+
+.design-your-own-fish-01 {
+	color: var(--white);
+	font-family: var(--font-family-poppins);
+	font-size: var(--font-size-1);
+	font-weight: 400;
+	left: 129px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 281px;
+}
+
+.asset-67-1 {
+	height: 359px;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 800px;
+}
+
+.side-quest-1 {
+	color: var(--mine-shaft);
+	font-family: var(--font-family-jura);
+	font-size: var(--font-size-s);
+	font-weight: 400;
+	left: 478px;
+	letter-spacing: 0;
+	line-height: normal;
+	position: absolute;
+	text-align: center;
+	top: 89px;
+}
+
+.rectangle-162 {
+	background-color: #fbb03b;
+	border: 1px none;
+	height: 30px;
+	left: 484px;
+	position: absolute;
+	top: 34px;
+	width: 24px;
+}
