@@ -160,7 +160,7 @@
 /* Need to fill background image URL */
 .overlap-group-2 {
 	align-items: flex-start;
-	background-image: url(); 
+	background-image: url(https://anima-uploads.s3.amazonaws.com/projects/616956efcda9826b41fd7d8c/releases/637cd54abe69814cd1344fbe/img/asset-72-1@2x.png);  
 	background-position: 50% 50%;
 	background-size: cover;
 	display: flex;
