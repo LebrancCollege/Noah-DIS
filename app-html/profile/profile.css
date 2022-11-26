@@ -1,0 +1,247 @@
+@import url("https://fonts.googleapis.com/css?family=Markazi+Text:400|Poppins:400,300,500,500italic|Jura:400,600|Iceberg:400|Dongle:400|PT+Sans:400|Mali:400|Poly:400|Poiret+One:400|Julius+Sans+One:400");
+
+.profile {
+    align-items: flex-start;
+    background-color: var(--black);
+    border: 1px none;
+    display: flex;
+    width: 800px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/616956efcda9826b41fd7d8c/releases/637cd54abe69814cd1344fbe/img/bg-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 360px;
+    position: relative;
+    width: 800px;
+}
+
+.asset-88-1 {
+    cursor: pointer;
+    height: 29px;
+    left: 35px;
+    object-fit: cover;
+    position: absolute;
+    top: 211px;
+    width: 28px;
+}
+
+.overlap-group2 {
+    height: 29px;
+    left: 33px;
+    position: absolute;
+    top: 33px;
+    width: 121px;
+}
+
+.rectangle-164 {
+    background-color: var(--white);
+    border: 1px none;
+    cursor: pointer;
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 121px;
+}
+
+.vector-2 {
+    height: 16px;
+    left: 12px;
+    position: absolute;
+    top: 6px;
+    width: 9px;
+}
+
+.group-90 {
+    cursor: pointer;
+    height: 34px;
+    left: 35px;
+    position: absolute;
+    top: 158px;
+    width: 34px;
+}
+
+.overlap-group1 {
+    height: 360px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 764px;
+}
+
+.asset-86 {
+    height: 104px;
+    left: 111px;
+    object-fit: cover;
+    position: absolute;
+    top: 256px;
+    width: 113px;
+}
+
+.asset-80-1 {
+    cursor: pointer;
+    height: 99px;
+    left: 566px;
+    object-fit: cover;
+    position: absolute;
+    top: 182px;
+    width: 198px;
+}
+
+.asset-85 {
+    height: 69px;
+    left: 224px;
+    object-fit: cover;
+    position: absolute;
+    top: 291px;
+    width: 323px;
+}
+
+.rectangle-165 {
+    background-color: #313131;
+    border: 1px none;
+    height: 54px;
+    left: 0;
+    position: absolute;
+    top: 306px;
+    width: 111px;
+}
+
+.asset-84 {
+    height: 299px;
+    left: 301px;
+    object-fit: cover;
+    position: absolute;
+    top: 55px;
+    width: 306px;
+}
+
+.vector {
+    height: 16px;
+    left: 407px;
+    position: absolute;
+    top: 330px;
+    width: 16px;
+}
+
+.rectangle-192 {
+    height: 109px;
+    left: 108px;
+    object-fit: cover;
+    position: absolute;
+    top: 251px;
+    width: 118px;
+}
+
+.asset-83 {
+    height: 360px;
+    left: 345px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 403px;
+}
+
+.vector-1 {
+    cursor: pointer;
+    height: 14px;
+    left: 114px;
+    position: absolute;
+    top: 256px;
+    width: 14px;
+}
+
+.asset-90-1 {
+    height: 150px;
+    left: 325px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 142px;
+}
+
+.title {
+    color: var(--white);
+    font-family: var(--font-family-jura);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    left: 306px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 85px;
+}
+
+.user-name001 {
+    color: transparent;
+    font-family: var(--font-family-jura);
+    font-size: var(--font-size-xxl2);
+    left: 241px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 325px;
+}
+
+.span0 {
+    color: var(--white);
+    font-weight: 400;
+}
+
+.span1 {
+    color: var(--fuel-yellow);
+    font-weight: 400;
+}
+
+.span2 {
+    color: var(--fuel-yellow);
+    font-family: var(--font-family-julius_sans_one);
+    font-weight: 400;
+}
+
+.rectangle-166 {
+    background-color: var(--white);
+    border: 1px none;
+    height: 17px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 289px;
+    width: 111px;
+}
+
+.asset-116-1 {
+    cursor: pointer;
+    height: 115px;
+    left: 483px;
+    object-fit: cover;
+    position: absolute;
+    top: 64px;
+    width: 265px;
+}
+
+.asset-82-1 {
+    height: 150px;
+    left: 179px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 284px;
+}
+
+.asset-91-1 {
+    height: 121px;
+    left: 292px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 58px;
+}

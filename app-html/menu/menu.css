@@ -1,0 +1,327 @@
+@import url("https://fonts.googleapis.com/css?family=Markazi+Text:400|Poppins:400,300,500,500italic|Jura:400,600|Iceberg:400|Dongle:400|PT+Sans:400|Mali:400|Poly:400|Poiret+One:400|Julius+Sans+One:400");
+
+.menu {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    gap: 98px;
+    height: 360px;
+    overflow: hidden;
+    width: 800px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group2 {
+    height: 376px;
+    margin-top: -16px;
+    position: relative;
+    width: 812px;
+}
+
+.asset-59 {
+    height: 360px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 800px;
+}
+
+.rectangle-139 {
+    height: 229px;
+    left: 459px;
+    object-fit: cover;
+    position: absolute;
+    top: 117px;
+    width: 334px;
+}
+
+.game-news {
+    color: var(--white);
+    font-family: var(--font-family-markazi_text);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 496px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 51px;
+    width: 135px;
+}
+
+.rectangle-137 {
+    background-color: var(--mine-shaft);
+    border: 1px none;
+    height: 103px;
+    left: 450px;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 225px;
+}
+
+.rectangle-9 {
+    height: 202px;
+    left: 467px;
+    object-fit: cover;
+    position: absolute;
+    top: 128px;
+    width: 311px;
+}
+
+.rectangle-140 {
+    background-color: var(--mine-shaft);
+    border: 1px none;
+    height: 230px;
+    left: 793px;
+    position: absolute;
+    top: 117px;
+    width: 19px;
+}
+
+.asset-21-1 {
+    height: 44px;
+    left: 692px;
+    object-fit: cover;
+    position: absolute;
+    top: 47px;
+    width: 44px;
+}
+
+.group-87 {
+    height: 360px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 800px;
+}
+
+.asset-54 {
+    height: 125px;
+    left: 73px;
+    object-fit: cover;
+    position: absolute;
+    top: 159px;
+    width: 309px;
+}
+
+.asset-55 {
+    height: 65px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 86px;
+    width: 193px;
+}
+
+.asset-56 {
+    height: 65px;
+    left: 239px;
+    object-fit: cover;
+    position: absolute;
+    top: 86px;
+    width: 194px;
+}
+
+.asset-57 {
+    height: 61px;
+    left: 45px;
+    object-fit: cover;
+    position: absolute;
+    top: 261px;
+    width: 180px;
+}
+
+.asset-58 {
+    height: 64px;
+    left: 246px;
+    object-fit: cover;
+    position: absolute;
+    top: 261px;
+    width: 191px;
+}
+
+.vector {
+    height: 24px;
+    left: 753px;
+    position: absolute;
+    top: 56px;
+    width: 24px;
+}
+
+.vector-1 {
+    height: 44px;
+    left: 742px;
+    position: absolute;
+    top: 45px;
+    width: 44px;
+}
+
+.group-91 {
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 16px;
+    width: 81px;
+}
+
+.lv1 {
+    color: var(--white);
+    font-family: var(--font-family-jura);
+    font-size: var(--font-size-xxl2);
+    font-weight: 400;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    width: 26px;
+}
+
+.overlap-group1 {
+    height: 37px;
+    left: 119px;
+    position: absolute;
+    top: 28px;
+    width: 75px;
+}
+
+.rectangle-152 {
+    background-color: var(--mine-shaft);
+    border: 1px none;
+    height: 15px;
+    left: 36px;
+    position: absolute;
+    top: 10px;
+    width: 39px;
+}
+
+.rectangle-153 {
+    background-color: var(--mischka);
+    border: 1px none;
+    height: 10px;
+    left: 28px;
+    position: absolute;
+    top: 13px;
+    width: 2px;
+}
+
+.rectangle-154 {
+    background-color: var(--mischka);
+    border: 1px none;
+    height: 10px;
+    left: 28px;
+    position: absolute;
+    top: 13px;
+    transform: rotate(90deg);
+    width: 2px;
+}
+
+.asset-62-1 {
+    height: 25px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 45px;
+}
+
+.overlap-group {
+    height: 7px;
+    left: 64px;
+    position: absolute;
+    top: 14;
+    width: 7px;
+}
+
+.rectangle-155 {
+    background-color: var(--white);
+    border: 1px none;
+    height: 7px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.rectangle-156 {
+    background-color: var(--white);
+    border: 1px none;
+    height: 7px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    transform: rotate(90deg);
+    width: 1px;
+}
+
+.number {
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 33px;
+}
+
+.asset-63-1 {
+    height: 98px;
+    left: 455px;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 204px;
+}
+
+.rectangle-138 {
+    background-color: #f90b0b;
+    border: 1px none;
+    height: 3px;
+    left: 515px;
+    position: absolute;
+    top: 113px;
+    width: 160px;
+}
+
+.rectangle-157 {
+    border: 1px none;
+    height: 87px;
+    left: 72px;
+    position: absolute;
+    top: 159px;
+    width: 284px;
+}
+
+.asset-120-1 {
+    height: 29px;
+    left: 535px;
+    object-fit: cover;
+    position: absolute;
+    top: 180px;
+    width: 44px;
+}
+
+.asset-120-2 {
+    height: 29px;
+    left: 637px;
+    object-fit: cover;
+    position: absolute;
+    top: 209px;
+    width: 44px;
+}
+
+.rectangle-149 {
+    height: 78px;
+    margin-left: 4px;
+    width: 243px;
+}

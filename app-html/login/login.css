@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Markazi+Text:400|Poppins:400,300,500,500italic|Jura:400,600|Iceberg:400|Dongle:400|PT+Sans:400|Mali:400|Poly:400|Poiret+One:400|Julius+Sans+One:400");
+
+.log-in {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    overflow: hidden;
+    width: 800px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/616956efcda9826b41fd7d8c/releases/637cd54abe69814cd1344fbe/img/asset-39-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 360px;
+    position: relative;
+    width: 800px;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.asset-35-100-1 {
+    border: 1px none;
+    height: 360px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 800px;
+}
+
+.asset-46-1 {
+    height: 201px;
+    left: 230px;
+    object-fit: cover;
+    position: absolute;
+    top: 18px;
+    width: 341px;
+}
+
+.rectangle-141 {
+    background-color: #313131;
+    border: 0.5px solid;
+    border-color: var(--white);
+    box-shadow: 4px 4px 4px #000000bf;
+    cursor: pointer;
+    height: 50px;
+    left: 293px;
+    position: absolute;
+    top: 240px;
+    width: 190px;
+}
+
+.title {
+    color: var(--white);
+    font-family: var(--font-family-markazi_text);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 361px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    text-shadow: 4px 4px 4px #000000bf;
+    top: 250px;
+}
