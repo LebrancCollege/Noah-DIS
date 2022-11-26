@@ -1,0 +1,48 @@
+.start {
+	align-item: flex-start;
+	background-color: #ffffff;
+	border: 0.12vw none;
+	display: flex;
+	width: 100vw;
+}
+
+.hidden
+.hidden * {
+	pointer-events: none;
+	visibility:hidden;
+}
+
+.overlap-group {
+	height: 45vw;
+	position: relative;
+	width: 100vw;
+}
+
+.asset-47-1 {
+	height: 25.62vw;
+	left: 34.25vw;
+	object-fit: cover;
+	position: absolute;
+	top: 1.75vw;
+	width: 35.75;
+}
+
+.untitled-1-1 {
+	border: 0.12vw none;
+	height:45vw;
+	left:0;
+	position:absolute;
+	top: 0;
+	width: 100vw;
+}
+
+.asset-35-100-2 {
+	cursor: pointer;
+	height: 45vw;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 100vw;
+
+}
